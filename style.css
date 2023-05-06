@@ -1,0 +1,39 @@
+body {
+    background-color: #01050f;
+    color: aliceblue;
+}
+
+.banner {
+    background: rgb(9, 4, 41);
+    
+}
+
+.banner-titulo {
+    color: whitesmoke;
+    font-family: 'Poppins', sans-serif;
+    font-size: 5.2vw;
+    width: 80vw;
+    text-align: center;
+    padding:  2em 1em;
+    line-height: 1.3em;
+}
+
+.banner-titulo-destaque {
+    color: orange;  
+    font-family: 'Poppins', sans-serif;
+}
+
+.formulario {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url("img/back-formulario.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2em;
+}
+
+iframe {
+    height: 90vh;
+}
